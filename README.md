@@ -7,13 +7,13 @@ This is where I explore Python fundamentals, build real-world projects, and grow
 
 ## 📂 Folder Structure
 
-| Folder | Description |
-|--------|-------------|
-| `basics/` | Core concepts like variables, data types, loops, and conditionals |
-| `functions/` | Custom functions, arguments, and return values |
-| `oop/` | Object-Oriented Programming (classes, inheritance, encapsulation) |
-| `file_handling/` | Reading and writing to files (TXT, CSV, JSON) |
-| `projects/` | Real-world mini projects and app prototypes |
+| Folder              | Description                                                       |
+|---------------------|-------------------------------------------------------------------|
+| `basics/`           | Core concepts like variables, data types, loops, and conditionals |
+| `functions/`        | Custom functions, arguments, and return values                    |
+| `oop/`              | Object-Oriented Programming (classes, inheritance, encapsulation) |
+| `file_handling/`    | Reading and writing to files (TXT, CSV, JSON)                     |
+| `projects/`         | Real-world mini projects and app prototypes                       |
 
 ---
 
